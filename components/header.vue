@@ -8,8 +8,8 @@
 			<div class="header__right">
 				<ul class="header__nav">
 					<li class="header__nav-item"><NuxtLink class="header__nav-link" to="/posts">Posts</NuxtLink></li>
-					<li class="header__nav-item"><NuxtLink class="header__nav-link" to="/">Works</NuxtLink></li>
-					<li class="header__nav-item"><NuxtLink class="header__nav-link" to="/">About</NuxtLink></li>
+					<li class="header__nav-item"><NuxtLink class="header__nav-link" to="/posts">Works</NuxtLink></li>
+					<li class="header__nav-item"><NuxtLink class="header__nav-link" to="/posts">About</NuxtLink></li>
 				</ul>
 
 				<div class="header__actions">
